@@ -1,6 +1,6 @@
 // import LocationService from "./LocationService";
 
-const url = 'http://api.openweathermap.org/data/2.5/weather'
+const url = 'https://api.openweathermap.org/data/2.5/weather'
 const apiKey = 'c06516a3bb199bb320181c589f72433c'
 
 let HttpHeaders = new Headers();
